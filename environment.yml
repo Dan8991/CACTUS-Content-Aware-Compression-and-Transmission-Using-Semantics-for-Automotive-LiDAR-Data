@@ -1,0 +1,8 @@
+name: CAC
+channels:
+dependencies:
+   - pip
+   - scikit-learn
+   - pip:
+     - "--editable=git+https://github.com/LTTM/PCutils.git@v0.3.0#egg=PCutils"
+     - tqdm

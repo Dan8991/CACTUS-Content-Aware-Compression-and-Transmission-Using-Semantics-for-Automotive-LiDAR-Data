@@ -1,0 +1,6 @@
+dataset/*
+evaluate/*
+src/__pycache__
+figures/*
+src/pcutils/*
+src/pcutils
