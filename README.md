@@ -1,4 +1,4 @@
-# Segmentation based compressor
+# CACTUS: Content-Aware Compression and Transmission Using Semantics for Automotive LiDAR Data
 
 ### Dependencies installation
 
